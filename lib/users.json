@@ -1,0 +1,45 @@
+{
+
+    "users": [
+        {
+          "id": 1,
+          "username": "tolgasevim",
+          "name": "Tolga",
+          "surname": "Sevim",
+          "role": "admin",
+          "grade": "none",
+          "email": "tolgasevim@gmail.com",
+          "language": "turkish"
+        },
+        {
+          "id": 2,
+          "username": "elasevim",
+          "name": "Ela",
+          "surname": "Sevim",
+          "role": "student",
+          "grade": "PS2",
+          "email": "tolgasevim@gmail.com",
+          "language": "german"
+        },
+        {
+          "id": 3,
+          "username": "aryasevim",
+          "name": "Arya",
+          "surname": "Sevim",
+          "role": "student",
+          "grade": "KG",
+          "email": "tolgasevim@gmail.com",
+          "language": "german"
+        },
+        {
+          "id": 4,
+          "username": "aykutsevim",
+          "name": "Aykut",
+          "surname": "Sevim",
+          "role": "admin",
+          "grade": "none",
+          "email": "aykutsevim@gmail.com",
+          "language": "english"
+        }
+      ]
+}
