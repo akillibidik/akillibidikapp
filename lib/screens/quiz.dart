@@ -2,13 +2,13 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-import './question.dart';
+import 'package:akillibidik/models/question.dart';
 
 var finalScore = 0;
 var questionNumber = 0;
-var quiz = new AnimalQuiz();
+var quiz = new AnimalQuizQuestions();
 
-class AnimalQuiz {
+class AnimalQuizQuestions {
   var images = ["alligator", "cat", "dog", "owl"];
 
   var questions = [

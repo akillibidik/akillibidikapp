@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "663125041269",
+    "firebase_url": "https://akillibidik-147b4.firebaseio.com",
+    "project_id": "akillibidik-147b4",
+    "storage_bucket": "akillibidik-147b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663125041269:android:600e222f9d6a509bd6183c",
+        "android_client_info": {
+          "package_name": "com.example.akillibidik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663125041269-hb04k6366aoqe8m0utb41nthdtcpoi5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYHs8XS1PENsF7fCf1_bxuAKzGy1shsqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663125041269-hb04k6366aoqe8m0utb41nthdtcpoi5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
